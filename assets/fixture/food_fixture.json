@@ -1,0 +1,95 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 5.99,
+      "category": [
+        "fast-food"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vegan Burger",
+      "description": "A delicious plant-based patty on a fresh bun, with lettuce and sauce",
+      "price": 7.50,
+      "category": [
+        "salad",
+        "fast-food"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chicken Caesar Salad",
+      "description": "Crisp romaine lettuce with grilled chicken breast, topped with Caesar dressing",
+      "price": 6.50,
+      "category": [
+        "salad"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Spicy Chicken Sandwich",
+      "description": "Juicy chicken breast marinated in spicy seasonings, served on a toasted bun with lettuce and mayo",
+      "price": 8.99,
+      "category": [
+        "fast-food"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Mushroom Swiss Burger",
+      "description": "A savory grilled mushroom and Swiss cheese patty served on a brioche bun with lettuce, tomato, and special sauce",
+      "price": 9.50,
+      "category": [
+        "fast-food"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Quinoa Salad",
+      "description": "A refreshing salad with quinoa, mixed greens, cherry tomatoes, cucumbers, and balsamic vinaigrette",
+      "price": 8.00,
+      "category": [
+        "salad"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "BBQ Pulled Pork Sandwich",
+      "description": "Tender pulled pork smothered in tangy BBQ sauce, served on a toasted bun with coleslaw",
+      "price": 9.99,
+      "category": [
+        "fast-food"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Caprese Panini",
+      "description": "Fresh mozzarella, juicy tomatoes, and basil pesto pressed between slices of crispy ciabatta bread",
+      "price": 8.50,
+      "category": [
+        "fast-food"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Vegetable Stir-Fry",
+      "description": "A colorful medley of stir-fried vegetables tossed in a savory sauce, served over steamed rice",
+      "price": 10.50,
+      "category": [
+        "salad"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Fish Tacos",
+      "description": "Crispy battered fish fillets served in warm corn tortillas with shredded cabbage, pico de gallo, and creamy chipotle sauce",
+      "price": 11.50,
+      "category": [
+        "seafood"
+      ]
+    }
+  ]
+}
